@@ -1,5 +1,5 @@
-# Paremiological Trawling
-## Using Large Language Models to Map Emergent Proverbs
+# Mining LLMs for Proverbs 
+(aka Paremiological Trawling)
 
 If proverbs are short, generally known phrases or clauses in a fixed and memorizable form that repeat across time and space, then it follows that buried within the probabilistic matrices of word collocations that make up large language models there should be a way to unearth hitherto un- or under-observed proverbs: that is, n-grams of sufficient length that the probability of 8 to 20 words "sticking" together and emerging out of a large number of responses rises above the level of random results. (Please note that the use of "emergence" here is not in line with the notion of "emergent abilities" that appears in some of the NLP/LLM literature.) 
 
