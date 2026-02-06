@@ -31,3 +31,4 @@ For more: https://johnlaudun.net/2025-07-06-mapping-culture-with-ai/.
 * [Falcon 7B](https://huggingface.co/tiiuae/falcon-7b)  
 * [Olmo 3](https://www.datocms-assets.com/64837/1765558567-olmo\_3\_technical\_report-4.pdf)
 * [Introducing Mistral 3 | Mistral AI](https://mistral.ai/news/mistral-3)
+
