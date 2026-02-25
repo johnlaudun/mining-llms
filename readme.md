@@ -32,3 +32,15 @@ For more: https://johnlaudun.net/2025-07-06-mapping-culture-with-ai/.
 * [Olmo 3](https://www.datocms-assets.com/64837/1765558567-olmo\_3\_technical\_report-4.pdf)
 * [Introducing Mistral 3 | Mistral AI](https://mistral.ai/news/mistral-3)
 
+## Working Notes
+
+I'm skipping past building a semantic vector space based on Reddit for now, and going straight to ground truth verification using search results. 
+
+* [pistocop/subreddit-comments-dl: Download subreddit comments](https://github.com/pistocop/subreddit-comments-dl)
+* [serpapi documentation on PyPI](https://pypi.org/project/serpapi/)
+* [My SerpApi Dashboard](https://serpapi.com/searches)
+* [Google Gemini](https://gemini.google.com/app/aa2876187db79f27) notes.
+
+To run **all-MiniLM-L6-v2** locally: [StackOverflow](https://stackoverflow.com/questions/65419499/download-pre-trained-sentence-transformers-model-locally).
+
+On hand inspecting results of initial deduplications, I discovered there are interesting proverbs in the mix, and I am tempted to try to find the ones more focused on online life and social media -- perhaps through the use of keywords, like "post", "comment", "like", "share", "follow", "subscribe", "thread", "troll", "signal", "content." Instead, I think I will let it ride and just pass the top N of this list off to SERPAPI to see what it finds.
